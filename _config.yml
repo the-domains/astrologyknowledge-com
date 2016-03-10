@@ -1,0 +1,14 @@
+layout_spectrum: 0.7903225
+color:
+  saturation: 0.3113008
+  lightness: 0.793926
+  brandStrength: 0.1509962
+  brandColors:
+    - '#DFD8BE'
+    - '#6D2804'
+    - '#CFA278'
+    - '#161E20'
+    - '#5C5C4B'
+  rhythmicContrast: 0.2871754
+typography_spectrum: 0.7544802
+name: AstrologyKnowledge.com
